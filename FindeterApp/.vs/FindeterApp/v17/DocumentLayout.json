@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\FindeterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\migrations\\20240805201457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\migrations\\20240805201457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\controllers\\loanapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\controllers\\loanapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\loanapplications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\loanapplications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\loanapplications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\loanapplications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\loanapplications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\loanapplications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\loanapplications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\loanapplications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\loanapplications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\loanapplications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\models\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\models\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|c:\\users\\johan\\source\\repos\\findeterapp\\findeterapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0539C55B-B0A9-4D61-971D-A09236A6744E}|FindeterApp\\FindeterApp.csproj|solutionrelative:findeterapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FindeterApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwHsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:38:17.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:37:22.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:37:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:36:32.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Index.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\LoanApplications\\Index.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Index.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\LoanApplications\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:35:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\LoanApplications\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Edit.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\LoanApplications\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:33:45.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:32:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FindeterApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:49:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Controllers\\LoanApplicationsController.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Controllers\\LoanApplicationsController.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Controllers\\LoanApplicationsController.cs",
+              "RelativeToolTip": "FindeterApp\\Controllers\\LoanApplicationsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:30:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FindeterApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAA1wG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:55:36.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240805201457_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Migrations\\20240805201457_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Migrations\\20240805201457_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Migrations\\20240805201457_InitialCreate.cs",
+              "RelativeToolTip": "FindeterApp\\Migrations\\20240805201457_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:15:05.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Details.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\LoanApplications\\Details.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Details.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\LoanApplications\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:33:34.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\LoanApplications\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Delete.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\LoanApplications\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:33:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Create.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\LoanApplications\\Create.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\LoanApplications\\Create.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\LoanApplications\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:32:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:32:25.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FindeterApp\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FindeterApp\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:31:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Program.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Program.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Program.cs",
+              "RelativeToolTip": "FindeterApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:08:30.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Startup.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Startup.cs",
+              "RelativeToolTip": "FindeterApp\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:55:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanApplication.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Models\\LoanApplication.cs",
+              "RelativeDocumentMoniker": "FindeterApp\\Models\\LoanApplication.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\Models\\LoanApplication.cs",
+              "RelativeToolTip": "FindeterApp\\Models\\LoanApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:54:23.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FindeterApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\appsettings.json",
+              "RelativeToolTip": "FindeterApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T03:37:57.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

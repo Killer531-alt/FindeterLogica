@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "lMyr3pF7QPFWigeqIYIi4Tw0eb/J3v/rLPYAnpxk2q0=",
+  "Source": "FindeterApp",
+  "BasePath": "_content/FindeterApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FindeterApp\\wwwroot",
+      "Source": "FindeterApp",
+      "ContentRoot": "C:\\Users\\johan\\source\\repos\\FindeterApp\\FindeterApp\\wwwroot\\",
+      "BasePath": "_content/FindeterApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

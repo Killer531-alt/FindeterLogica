@@ -1,0 +1,6 @@
+@FindeterApp_HostAddress = http://localhost:5250
+
+GET {{FindeterApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
